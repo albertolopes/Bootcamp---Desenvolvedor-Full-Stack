@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0>
+        <title>Desafio</title>
+        
+        <link rel="stylesheet" href="css/reset.css"/>
+        <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+        <link rel="stylesheet" href="css/style.css"/>
+    </head>
+    <body>
+        <h1>Números por extenso</h1>
+        <form action="#">
+            <p class="range-field">
+              <input type="range" id="selectNumber" min="0" max="999" />
+            </p>
+        </form>
+        <div class="row">
+            <div class="input-field col s12">
+              <input disabled value="Select a number" id="number" type="text" class="validate">
+              <label for="disabled">Numero atual</label>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+              <input disabled value="Select a number" id="text" type="text" class="validate">
+              <label for="disabled">Número por extenso</label>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>

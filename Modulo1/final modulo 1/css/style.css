@@ -1,0 +1,34 @@
+body{
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+.country-container {
+    display: flex;
+  }
+  
+.country {
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
+.add {
+border-radius: 50%;
+background-color: darkgreen;
+color: white;
+font-weight: bold;
+}
+
+.users {
+    padding: 30px;
+    text-align: center;
+}
+
+.data {
+    padding: 30px;
+    text-align: center;
+}

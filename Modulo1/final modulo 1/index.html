@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0>
+        <title>Desafio</title>
+        
+        <link rel="stylesheet" href="css/reset.css"/>
+        <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+        <link rel="stylesheet" href="css/style.css"/>
+    </head>
+    <body>
+        <h1>Números por extenso</h1>
+        <form action="#">
+            <div class="input-field col s12">
+                <label for="name">Last Name</label>
+                <input id="name" type="text" class="validate">
+                <a id="button" class="waves-effect waves-light btn">button</a>
+            </div>     
+        </form>
+        <div class="country-container">
+            <div class="users">
+              <h5>(<span id="countUsers"></span>) usuario(s) encontrado(s).</h5>
+              <h6><span id="usersList"></span></h6>
+              <div id="tabUsers"></div>
+            </div>
+            <div class="data">
+              <h5>Estatisticas:</h5>
+              <h6>Sexo masculino: <span id="genreMale"></span></h6>
+              <h6>Sexo feminino: <span id="genreFemale"></span></h6>
+              <h6>Soma das idades: <span id="sumUsersAge"></span></h6>
+              <h6>Média das idades: <span id="avarageUsersAge"></span></h6>
+            </div>
+          </div>
+        <script src="js/script.js"></script>
+    </body>
+</html>

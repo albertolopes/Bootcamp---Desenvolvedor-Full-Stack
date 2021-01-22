@@ -1,0 +1,379 @@
+2020-12-15T00:28:51.212Z [my-app-api] info: API Started and File Created!
+2020-12-15T00:39:51.660Z [my-app-api] info: API Started!
+2020-12-15T00:40:26.315Z [my-app-api] info: API Started!
+2020-12-15T00:56:33.259Z [my-app-api] info: API Started!
+2020-12-15T01:00:40.949Z [my-app-api] info: API Started!
+2020-12-15T01:01:03.602Z [my-app-api] info: API Started!
+2020-12-15T01:37:56.248Z [my-app-api] info: API Started!
+2020-12-15T01:49:52.762Z [my-app-api] info: API Started!
+2020-12-15T02:01:37.456Z [my-app-api] info: API Started!
+2020-12-15T02:07:48.596Z [my-app-api] info: API Started!
+2020-12-15T02:07:58.407Z [my-app-api] info: API Started!
+2020-12-15T02:09:32.766Z [my-app-api] info: API Started!
+2020-12-15T02:10:21.460Z [my-app-api] info: API Started!
+2020-12-15T02:10:57.218Z [my-app-api] info: API Started!
+2020-12-15T02:13:41.767Z [my-app-api] info: API Started!
+2020-12-15T02:18:53.460Z [my-app-api] info: API Started!
+2020-12-15T02:19:26.896Z [my-app-api] info: API Started!
+2020-12-15T02:19:35.081Z [my-app-api] info: API Started!
+2020-12-15T02:20:34.549Z [my-app-api] info: API Started!
+2020-12-15T02:21:03.727Z [my-app-api] info: API Started!
+2020-12-15T02:21:27.051Z [my-app-api] info: API Started!
+2020-12-15T02:24:17.142Z [my-app-api] info: API Started!
+2020-12-15T02:24:25.829Z [my-app-api] info: API Started!
+2020-12-15T02:24:33.474Z [my-app-api] info: API Started!
+2020-12-15T02:31:39.068Z [my-app-api] info: API Started!
+2020-12-15T02:31:45.379Z [my-app-api] info: API Started!
+2020-12-15T02:32:08.329Z [my-app-api] info: API Started!
+2020-12-15T02:32:15.450Z [my-app-api] info: API Started!
+2020-12-15T02:36:20.992Z [my-app-api] info: API Started!
+2020-12-15T02:37:38.204Z [my-app-api] info: API Started!
+2020-12-15T11:43:50.321Z [my-app-api] info: API Started!
+2020-12-15T11:43:52.486Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:44:41.222Z [my-app-api] info: API Started!
+2020-12-15T11:44:45.626Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:44:48.864Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:45:11.091Z [my-app-api] info: API Started!
+2020-12-15T11:49:05.489Z [my-app-api] info: API Started!
+2020-12-15T11:49:07.937Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:49:30.564Z [my-app-api] info: API Started!
+2020-12-15T11:49:32.736Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:49:45.841Z [my-app-api] info: API Started!
+2020-12-15T11:49:49.008Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:50:05.959Z [my-app-api] info: API Started!
+2020-12-15T11:50:09.395Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:56:42.625Z [my-app-api] info: API Started!
+2020-12-15T11:56:44.534Z [my-app-api] error: POST /grade - readFile is not defined
+2020-12-15T11:57:07.098Z [my-app-api] info: API Started!
+2020-12-15T11:58:20.930Z [my-app-api] info: API Started!
+2020-12-15T12:02:46.810Z [my-app-api] info: API Started!
+2020-12-15T12:02:49.109Z [my-app-api] error: POST /grade - grades is not defined
+2020-12-15T12:03:23.664Z [my-app-api] info: API Started!
+2020-12-15T12:05:26.332Z [my-app-api] info: API Started!
+2020-12-15T12:05:37.117Z [my-app-api] info: API Started!
+2020-12-15T12:12:02.771Z [my-app-api] info: API Started!
+2020-12-15T12:12:06.461Z [my-app-api] error: POST /grade - data.push is not a function
+2020-12-15T12:12:48.646Z [my-app-api] info: API Started!
+2020-12-15T12:15:22.136Z [my-app-api] info: API Started!
+2020-12-15T12:15:26.300Z [my-app-api] error: POST /grade - data.nextId.push is not a function
+2020-12-15T12:16:07.930Z [my-app-api] info: API Started!
+2020-12-15T12:16:09.792Z [my-app-api] error: POST /grade - data.nextId.push is not a function
+2020-12-15T12:16:23.838Z [my-app-api] info: API Started!
+2020-12-15T12:16:27.532Z [my-app-api] error: POST /grade - Invalid status code: 49
+2020-12-15T12:16:40.794Z [my-app-api] info: API Started!
+2020-12-15T12:16:44.699Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:18:40.004Z [my-app-api] info: API Started!
+2020-12-15T12:18:43.615Z [my-app-api] error: POST /grade - data.indexOf is not a function
+2020-12-15T12:19:08.461Z [my-app-api] info: API Started!
+2020-12-15T12:19:11.250Z [my-app-api] error: POST /grade - data.nextId.indexOf is not a function
+2020-12-15T12:21:57.653Z [my-app-api] info: API Started!
+2020-12-15T12:22:01.465Z [my-app-api] error: POST /grade - indexOf is not defined
+2020-12-15T12:25:19.657Z [my-app-api] info: API Started!
+2020-12-15T12:25:24.807Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:25:33.648Z [my-app-api] info: API Started!
+2020-12-15T12:25:35.216Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:25:43.505Z [my-app-api] info: API Started!
+2020-12-15T12:25:45.290Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:25:56.886Z [my-app-api] info: API Started!
+2020-12-15T12:25:59.403Z [my-app-api] error: POST /grade - Cannot read property 'nextId' of undefined
+2020-12-15T12:26:17.796Z [my-app-api] info: API Started!
+2020-12-15T12:26:20.088Z [my-app-api] error: POST /grade - Invalid status code: 49
+2020-12-15T12:28:19.762Z [my-app-api] info: API Started!
+2020-12-15T12:28:33.775Z [my-app-api] info: API Started!
+2020-12-15T12:28:36.479Z [my-app-api] error: POST /grade - Invalid status code: 50
+2020-12-15T12:28:59.220Z [my-app-api] info: API Started!
+2020-12-15T12:29:17.450Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:29:24.490Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:29:25.986Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:29:27.508Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:29:39.623Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:29:42.477Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:33:50.331Z [my-app-api] error: POST /grade - account is not defined
+2020-12-15T12:34:25.242Z [my-app-api] info: API Started!
+2020-12-15T12:34:28.414Z [my-app-api] info: POST /account - {"id":57,"student":"asddd","subject":"asdsdddd","type":"ascac","value":"19"}
+2020-12-15T14:01:38.982Z [my-app-api] info: API Started!
+2020-12-15T14:01:44.040Z [my-app-api] error: POST /grade - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function router
+2020-12-15T14:02:32.312Z [my-app-api] info: API Started!
+2020-12-15T14:02:35.017Z [my-app-api] error: POST /grade - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function router
+2020-12-15T14:02:59.721Z [my-app-api] info: API Started!
+2020-12-15T14:03:01.956Z [my-app-api] error: POST /grade - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function router
+2020-12-15T14:03:22.336Z [my-app-api] info: API Started!
+2020-12-15T14:03:24.229Z [my-app-api] error: POST /grade - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function router
+2020-12-15T14:23:54.454Z [my-app-api] info: API Started!
+2020-12-15T14:24:01.366Z [my-app-api] error: PUT /grade - allUsers is not defined
+2020-12-15T14:27:54.346Z [my-app-api] info: API Started!
+2020-12-15T14:28:13.290Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:28:48.387Z [my-app-api] info: API Started!
+2020-12-15T14:28:52.776Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:31:05.630Z [my-app-api] info: API Started!
+2020-12-15T14:31:13.835Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:31:39.226Z [my-app-api] info: API Started!
+2020-12-15T14:31:41.993Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:33:01.767Z [my-app-api] info: API Started!
+2020-12-15T14:33:12.237Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:33:36.369Z [my-app-api] info: API Started!
+2020-12-15T14:33:41.295Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:34:00.810Z [my-app-api] info: API Started!
+2020-12-15T14:34:03.079Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:34:06.461Z [my-app-api] info: POST /account - {"id":58,"student":"asddd","subject":"asdsdddd","type":"ascac","value":"19"}
+2020-12-15T14:34:10.396Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:35:09.491Z [my-app-api] info: API Started!
+2020-12-15T14:35:12.150Z [my-app-api] error: PUT /grade - array is not defined
+2020-12-15T14:36:33.382Z [my-app-api] info: API Started!
+2020-12-15T14:37:03.832Z [my-app-api] info: API Started!
+2020-12-15T14:37:20.135Z [my-app-api] info: API Started!
+2020-12-15T14:37:52.141Z [my-app-api] info: API Started!
+2020-12-15T14:44:08.617Z [my-app-api] info: API Started!
+2020-12-15T14:44:11.508Z [my-app-api] error: PUT /grade - firstName is not defined
+2020-12-15T14:44:30.432Z [my-app-api] info: API Started!
+2020-12-15T14:45:01.438Z [my-app-api] info: API Started!
+2020-12-15T14:45:22.289Z [my-app-api] info: API Started!
+2020-12-15T14:45:35.354Z [my-app-api] info: API Started!
+2020-12-15T14:46:23.758Z [my-app-api] info: API Started!
+2020-12-15T14:47:55.684Z [my-app-api] info: API Started!
+2020-12-15T14:47:58.709Z [my-app-api] error: PUT /grade - indexOf is not defined
+2020-12-15T14:50:09.228Z [my-app-api] error: PUT /grade - indexOf is not defined
+2020-12-15T14:50:14.601Z [my-app-api] info: API Started!
+2020-12-15T14:55:47.457Z [my-app-api] info: API Started!
+2020-12-15T14:55:53.829Z [my-app-api] error: PUT /grade - data.forEach is not a function
+2020-12-15T14:56:19.133Z [my-app-api] info: API Started!
+2020-12-15T14:59:43.997Z [my-app-api] info: API Started!
+2020-12-15T14:59:48.996Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:00:10.019Z [my-app-api] info: API Started!
+2020-12-15T15:00:12.102Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:00:19.769Z [my-app-api] info: API Started!
+2020-12-15T15:00:21.587Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:00:46.074Z [my-app-api] info: API Started!
+2020-12-15T15:00:47.989Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:00:58.188Z [my-app-api] info: API Started!
+2020-12-15T15:01:00.050Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:01:16.394Z [my-app-api] info: API Started!
+2020-12-15T15:02:14.095Z [my-app-api] info: API Started!
+2020-12-15T15:02:16.254Z [my-app-api] error: PUT /grade - Cannot read property 'id' of undefined
+2020-12-15T15:02:33.446Z [my-app-api] info: API Started!
+2020-12-15T15:02:50.972Z [my-app-api] info: API Started!
+2020-12-15T15:02:52.716Z [my-app-api] error: PUT /grade - data.id.indexOf is not a function
+2020-12-15T15:03:05.732Z [my-app-api] info: API Started!
+2020-12-15T15:03:07.256Z [my-app-api] error: PUT /grade - data.indexOf is not a function
+2020-12-15T15:09:15.520Z [my-app-api] info: API Started!
+2020-12-15T15:09:19.205Z [my-app-api] error: PUT /grade - data.findIndex is not a function
+2020-12-15T15:11:08.952Z [my-app-api] info: API Started!
+2020-12-15T15:11:14.106Z [my-app-api] error: PUT /grade - data.findIndex is not a function
+2020-12-15T15:13:46.908Z [my-app-api] info: API Started!
+2020-12-15T15:13:50.793Z [my-app-api] error: PUT /grade - f is not defined
+2020-12-15T15:14:26.600Z [my-app-api] info: API Started!
+2020-12-15T15:14:29.429Z [my-app-api] error: PUT /grade - f is not defined
+2020-12-15T15:14:42.900Z [my-app-api] info: API Started!
+2020-12-15T15:16:47.601Z [my-app-api] info: API Started!
+2020-12-15T15:17:03.164Z [my-app-api] error: PUT /grade - index is not defined
+2020-12-15T15:17:24.325Z [my-app-api] info: API Started!
+2020-12-15T15:40:42.296Z [my-app-api] info: API Started!
+2020-12-15T15:41:09.819Z [my-app-api] info: POST /account - {"student":"atualizado","subject":"atualizado","type":"atualizado","value":"19"}
+2020-12-15T15:42:09.512Z [my-app-api] info: API Started!
+2020-12-15T15:42:48.741Z [my-app-api] info: API Started!
+2020-12-15T15:43:50.670Z [my-app-api] info: API Started!
+2020-12-15T15:43:53.023Z [my-app-api] error: PUT /grade - Unexpected token o in JSON at position 1
+2020-12-15T15:44:08.623Z [my-app-api] info: API Started!
+2020-12-15T15:44:10.675Z [my-app-api] error: PUT /grade - Unexpected token o in JSON at position 1
+2020-12-15T15:44:19.080Z [my-app-api] info: API Started!
+2020-12-15T15:51:09.000Z [my-app-api] info: API Started!
+2020-12-15T15:51:27.917Z [my-app-api] info: API Started!
+2020-12-15T15:52:21.211Z [my-app-api] info: POST /account - {"id":59,"student":"atualizado daadsde novo","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:53:51.198Z [my-app-api] info: POST /account - {"id":59,"student":"atualizado","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:53:55.637Z [my-app-api] info: POST /account - {"id":60,"student":"atualizado","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:56:30.688Z [my-app-api] info: API Started!
+2020-12-15T15:56:33.732Z [my-app-api] info: POST /account - {"id":58,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:56:52.002Z [my-app-api] info: API Started!
+2020-12-15T15:56:54.967Z [my-app-api] info: POST /account - {"id":58,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:57:25.611Z [my-app-api] info: API Started!
+2020-12-15T15:57:34.929Z [my-app-api] info: POST /account - {"id":58,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:58:04.072Z [my-app-api] info: API Started!
+2020-12-15T15:58:06.184Z [my-app-api] info: POST /account - {"id":58,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:58:25.277Z [my-app-api] info: POST /account - {"id":57,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:59:07.981Z [my-app-api] info: API Started!
+2020-12-15T15:59:17.758Z [my-app-api] info: API Started!
+2020-12-15T15:59:20.677Z [my-app-api] info: POST /account - {"id":56,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:59:37.499Z [my-app-api] info: API Started!
+2020-12-15T15:59:39.255Z [my-app-api] info: POST /account - {"id":56,"student":"atualizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T15:59:48.778Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:00:01.559Z [my-app-api] info: POST /account - {"id":55,"student":"aaaaaaa","subject":"aaaaaa","type":"ddd","value":"19"}
+2020-12-15T16:00:16.831Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:00:26.415Z [my-app-api] info: API Started!
+2020-12-15T16:01:15.405Z [my-app-api] info: API Started!
+2020-12-15T16:01:19.851Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:01:25.684Z [my-app-api] info: POST /account - {"id":55,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:01:30.413Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:04:16.483Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:04:24.718Z [my-app-api] info: POST /account - {"id":55,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:04:31.924Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:05:16.525Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:05:25.975Z [my-app-api] info: POST /account - {"id":53,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:05:38.153Z [my-app-api] info: POST /account - {"id":1,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:05:44.970Z [my-app-api] info: POST /account - {"id":1,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:05:49.744Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:06:09.569Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:06:11.447Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:08:32.741Z [my-app-api] info: API Started!
+2020-12-15T16:08:35.138Z [my-app-api] error: PUT /grade - item.length is not a function
+2020-12-15T16:08:47.577Z [my-app-api] info: API Started!
+2020-12-15T16:08:49.615Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:09:36.766Z [my-app-api] info: API Started!
+2020-12-15T16:09:40.054Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:09:56.462Z [my-app-api] info: API Started!
+2020-12-15T16:10:00.564Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:10:06.050Z [my-app-api] info: POST /account - {"id":65,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:10:30.299Z [my-app-api] info: POST /account - {"id":55,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:10:39.663Z [my-app-api] info: POST /account - {"id":55,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:10:55.720Z [my-app-api] info: POST /account - {"id":54,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:07.349Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:12.951Z [my-app-api] info: POST /account - {"id":2,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:18.105Z [my-app-api] info: POST /account - {"id":56,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:23.565Z [my-app-api] info: POST /account - {"id":10,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:28.649Z [my-app-api] info: POST /account - {"id":8,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:34.037Z [my-app-api] info: POST /account - {"id":54,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:11:42.392Z [my-app-api] info: POST /account - {"id":32,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:07.571Z [my-app-api] info: API Started!
+2020-12-15T16:12:24.275Z [my-app-api] info: POST /account - {"id":55,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:30.826Z [my-app-api] info: POST /account - {"id":54,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:37.083Z [my-app-api] info: POST /account - {"id":54,"student":"atuaaaaaalizadaço","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:43.264Z [my-app-api] info: POST /account - {"id":54,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:49.915Z [my-app-api] info: POST /account - {"id":53,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:12:57.320Z [my-app-api] info: POST /account - {"id":10,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:13:50.171Z [my-app-api] info: API Started!
+2020-12-15T16:14:01.924Z [my-app-api] info: POST /account - {"id":10,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:14:11.040Z [my-app-api] info: POST /account - {"id":10,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:14:12.877Z [my-app-api] info: POST /account - {"id":10,"student":"dddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:14:16.314Z [my-app-api] info: POST /account - {"id":10,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:14:40.026Z [my-app-api] info: API Started!
+2020-12-15T16:15:13.286Z [my-app-api] info: API Started!
+2020-12-15T16:15:15.732Z [my-app-api] info: POST /account - {"id":10,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:15:22.117Z [my-app-api] info: POST /account - {"id":9,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:15:24.426Z [my-app-api] info: POST /account - {"id":9,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:15:25.214Z [my-app-api] info: POST /account - {"id":9,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:38:19.313Z [my-app-api] info: API Started!
+2020-12-15T16:38:27.241Z [my-app-api] info: POST /account - {"id":7,"student":"sdsdddd","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:38:42.714Z [my-app-api] info: POST /account - {"id":7,"student":"novo","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:38:54.352Z [my-app-api] info: POST /account - {"id":8,"student":"oito","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T16:55:42.238Z [my-app-api] info: API Started!
+2020-12-15T16:55:47.665Z [my-app-api] error: PUT /grade - Cannot read property 'grades' of undefined
+2020-12-15T17:03:48.122Z [my-app-api] info: API Started!
+2020-12-15T17:06:07.177Z [my-app-api] info: API Started!
+2020-12-15T17:06:11.987Z [my-app-api] error: PUT /grade - data.grades[index].push is not a function
+2020-12-15T17:08:29.002Z [my-app-api] info: API Started!
+2020-12-15T17:08:31.327Z [my-app-api] info: PUT /account - {"id":1,"student":"oito","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T17:08:49.956Z [my-app-api] info: PUT /account - {"id":2,"student":"dez","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T17:17:02.823Z [my-app-api] info: API Started!
+2020-12-15T17:17:14.923Z [my-app-api] error: PUT /grade - Date(...).toISOString is not a function
+2020-12-15T17:24:51.072Z [my-app-api] info: API Started!
+2020-12-15T17:24:57.433Z [my-app-api] info: PUT /account - {"id":2,"student":"dez","subject":"asdddd","type":"ddd","value":"19","timestamp":null}
+2020-12-15T17:25:19.115Z [my-app-api] info: API Started!
+2020-12-15T17:25:21.991Z [my-app-api] info: PUT /account - {"id":2,"student":"dez","subject":"asdddd","type":"ddd","value":"19","timestamp":1608053121977}
+2020-12-15T17:26:23.260Z [my-app-api] info: API Started!
+2020-12-15T17:26:25.440Z [my-app-api] error: PUT /grade - Date.now(...).toUTCString is not a function
+2020-12-15T17:26:42.817Z [my-app-api] info: API Started!
+2020-12-15T17:26:44.781Z [my-app-api] error: PUT /grade - Date(...).toUTCString is not a function
+2020-12-15T17:26:59.114Z [my-app-api] info: API Started!
+2020-12-15T17:27:01.299Z [my-app-api] info: PUT /account - {"id":2,"student":"dez","subject":"asdddd","type":"ddd","value":"19","timestamp":"Tue, 15 Dec 2020 17:27:01 GMT"}
+2020-12-15T17:27:12.646Z [my-app-api] info: API Started!
+2020-12-15T17:27:14.756Z [my-app-api] info: PUT /account - {"id":2,"student":"dez","subject":"asdddd","type":"ddd","value":"19","timestamp":"2020-12-15T17:27:14.743Z"}
+2020-12-15T17:34:24.670Z [my-app-api] info: API Started!
+2020-12-15T17:34:35.967Z [my-app-api] error: DELETE /grade - arrayPosition is not defined
+2020-12-15T17:35:18.935Z [my-app-api] info: API Started!
+2020-12-15T17:35:22.749Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:35:38.609Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:35:54.907Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:35:58.291Z [my-app-api] info: API Started!
+2020-12-15T17:36:00.692Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:36:40.791Z [my-app-api] info: API Started!
+2020-12-15T17:36:45.334Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:36:56.119Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T17:43:17.295Z [my-app-api] info: API Started!
+2020-12-15T17:43:20.696Z [my-app-api] error: DELETE /grade - arrayPosition is not defined
+2020-12-15T17:43:42.848Z [my-app-api] info: API Started!
+2020-12-15T17:43:45.708Z [my-app-api] error: DELETE /grade - Registro não encontrado.
+2020-12-15T18:21:41.997Z [my-app-api] info: API Started!
+2020-12-15T18:21:45.656Z [my-app-api] error: DELETE /grade - Cannot read property 'filter' of undefined
+2020-12-15T18:22:53.391Z [my-app-api] info: API Started!
+2020-12-15T18:23:08.489Z [my-app-api] info: DELETE /account/:id - 3
+2020-12-15T18:27:19.689Z [my-app-api] info: API Started!
+2020-12-15T18:27:39.464Z [my-app-api] info: API Started!
+2020-12-15T18:27:49.669Z [my-app-api] error: GET /grade - Cannot read property 'find' of undefined
+2020-12-15T18:28:04.686Z [my-app-api] info: API Started!
+2020-12-15T18:28:08.707Z [my-app-api] info: GET /account/:id
+2020-12-15T18:28:29.599Z [my-app-api] info: POST /account - {"id":50,"student":"dez","subject":"asdddd","type":"ddd","value":"19"}
+2020-12-15T18:29:27.874Z [my-app-api] info: PUT /account - {"id":50,"student":"dez","subject":"asdddd","type":"ddd","value":"19","timestamp":"2020-12-15T18:29:27.869Z"}
+2020-12-15T18:30:16.866Z [my-app-api] info: GET /account/:id
+2020-12-15T18:31:09.277Z [my-app-api] info: API Started!
+2020-12-15T18:31:19.646Z [my-app-api] info: GET /account
+2020-12-15T18:55:09.507Z [my-app-api] info: API Started!
+2020-12-15T18:55:53.003Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T18:57:42.292Z [my-app-api] info: API Started!
+2020-12-15T18:57:45.574Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T18:58:01.366Z [my-app-api] info: API Started!
+2020-12-15T18:58:04.360Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T18:59:51.362Z [my-app-api] info: API Started!
+2020-12-15T18:59:54.901Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T19:00:17.090Z [my-app-api] info: API Started!
+2020-12-15T19:00:21.940Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T19:02:41.158Z [my-app-api] info: API Started!
+2020-12-15T19:03:28.256Z [my-app-api] info: API Started!
+2020-12-15T19:03:31.287Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T19:03:43.946Z [my-app-api] info: API Started!
+2020-12-15T19:03:47.363Z [my-app-api] error: GET /grade - Cannot read property 'student' of undefined
+2020-12-15T19:06:06.817Z [my-app-api] info: API Started!
+2020-12-15T19:06:09.727Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:12:58.669Z [my-app-api] info: API Started!
+2020-12-15T19:13:04.215Z [my-app-api] error: GET /grade - el.toLowerCase is not a function
+2020-12-15T19:13:28.364Z [my-app-api] error: GET /grade - el.toLowerCase is not a function
+2020-12-15T19:13:31.692Z [my-app-api] info: API Started!
+2020-12-15T19:13:33.761Z [my-app-api] error: GET /grade - el.indexOf is not a function
+2020-12-15T19:13:52.528Z [my-app-api] error: GET /grade - el.indexOf is not a function
+2020-12-15T19:13:56.396Z [my-app-api] info: API Started!
+2020-12-15T19:13:58.587Z [my-app-api] error: GET /grade - el.toLowerCase is not a function
+2020-12-15T19:15:51.161Z [my-app-api] info: API Started!
+2020-12-15T19:16:16.647Z [my-app-api] info: API Started!
+2020-12-15T19:16:29.450Z [my-app-api] info: API Started!
+2020-12-15T19:16:47.607Z [my-app-api] error: GET /grade - filterData is not defined
+2020-12-15T19:17:28.161Z [my-app-api] info: API Started!
+2020-12-15T19:17:30.430Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:24:15.544Z [my-app-api] info: API Started!
+2020-12-15T19:24:20.779Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:25:00.341Z [my-app-api] info: API Started!
+2020-12-15T19:25:04.851Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:31:17.736Z [my-app-api] info: API Started!
+2020-12-15T19:31:21.848Z [my-app-api] error: GET /grade - Cannot read property 'value' of undefined
+2020-12-15T19:31:32.931Z [my-app-api] info: API Started!
+2020-12-15T19:31:38.487Z [my-app-api] error: GET /grade - Cannot read property 'reduce' of undefined
+2020-12-15T19:34:50.429Z [my-app-api] info: API Started!
+2020-12-15T19:34:53.303Z [my-app-api] error: GET /grade - Cannot read property 'reduce' of undefined
+2020-12-15T19:36:29.141Z [my-app-api] info: API Started!
+2020-12-15T19:36:32.441Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:37:24.652Z [my-app-api] info: API Started!
+2020-12-15T19:37:28.761Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:38:10.206Z [my-app-api] info: API Started!
+2020-12-15T19:38:13.052Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:38:46.546Z [my-app-api] info: API Started!
+2020-12-15T19:38:49.368Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:40:37.641Z [my-app-api] info: API Started!
+2020-12-15T19:40:40.372Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:41:21.829Z [my-app-api] info: API Started!
+2020-12-15T19:41:24.544Z [my-app-api] error: GET /grade - Cannot read property 'reduce' of undefined
+2020-12-15T19:42:26.626Z [my-app-api] info: API Started!
+2020-12-15T19:42:29.308Z [my-app-api] error: GET /grade - teste is not defined
+2020-12-15T19:42:44.935Z [my-app-api] info: API Started!
+2020-12-15T19:42:48.093Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:43:05.023Z [my-app-api] info: API Started!
+2020-12-15T19:43:07.837Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:45:50.092Z [my-app-api] info: API Started!
+2020-12-15T19:45:52.915Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:46:13.694Z [my-app-api] info: API Started!
+2020-12-15T19:46:16.508Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:46:59.882Z [my-app-api] info: API Started!
+2020-12-15T19:47:02.457Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:47:16.087Z [my-app-api] info: API Started!
+2020-12-15T19:47:19.205Z [my-app-api] info: GET /grade/:student/:subject
+2020-12-15T19:48:05.924Z [my-app-api] info: API Started!
+2020-12-15T19:48:08.620Z [my-app-api] error: GET /grade - Invalid status code: 45
+2020-12-15T19:49:48.901Z [my-app-api] error: GET /grade - Invalid status code: 45
+2020-12-15T19:49:57.248Z [my-app-api] info: API Started!
+2020-12-15T19:50:00.211Z [my-app-api] info: GET /grade/:student/:subject

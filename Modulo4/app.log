@@ -1,0 +1,225 @@
+2021-01-27T12:54:12.271Z [my-app-api] error: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-01-27T12:54:42.313Z [my-app-api] info: Erro ao conectar ao MongoDB
+2021-01-27T12:57:11.438Z [my-app-api] error: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-01-27T12:57:12.811Z [my-app-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:44:41.733Z [my-app-api] error: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-01-27T15:44:43.709Z [my-app-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:52:54.230Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:52:54.233Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:53:24.203Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:53:45.570Z [my-bank-api] info: API Started!
+2021-01-27T15:53:45.572Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T15:54:00.710Z [my-bank-api] info: API Started!
+2021-01-27T15:54:00.713Z [my-bank-api] error: Erro ao conectar ao MongoDB
+2021-01-27T15:56:56.631Z [my-bank-api] info: API Started!
+2021-01-27T15:56:56.634Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:11:27.989Z [my-bank-api] info: API Started!
+2021-01-27T16:11:27.992Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:35:06.722Z [my-bank-api] info: API Started!
+2021-01-27T16:35:06.725Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:35:18.939Z [my-bank-api] info: API Started!
+2021-01-27T16:35:18.942Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:36:23.934Z [my-bank-api] info: API Started!
+2021-01-27T16:36:23.937Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:49:10.212Z [my-bank-api] info: API Started!
+2021-01-27T16:49:10.217Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:50:18.700Z [my-bank-api] info: API Started!
+2021-01-27T16:50:18.704Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T16:55:01.437Z [my-bank-api] info: API Started!
+2021-01-27T16:55:01.441Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:00:17.738Z [my-bank-api] info: API Started!
+2021-01-27T17:00:17.741Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:01:01.028Z [my-bank-api] info: API Started!
+2021-01-27T17:01:01.031Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:02:49.873Z [my-bank-api] info: API Started!
+2021-01-27T17:02:49.876Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:11:17.338Z [my-bank-api] info: API Started!
+2021-01-27T17:11:17.341Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:15:04.481Z [my-bank-api] info: API Started!
+2021-01-27T17:15:04.485Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:26:19.707Z [my-bank-api] info: API Started!
+2021-01-27T17:26:19.710Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:28:14.287Z [my-bank-api] info: API Started!
+2021-01-27T17:28:14.291Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:28:34.277Z [my-bank-api] info: API Started!
+2021-01-27T17:28:34.292Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:29:19.532Z [my-bank-api] info: API Started!
+2021-01-27T17:29:19.534Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:29:54.852Z [my-bank-api] info: API Started!
+2021-01-27T17:29:54.860Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:30:07.698Z [my-bank-api] info: API Started!
+2021-01-27T17:30:07.702Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:30:32.170Z [my-bank-api] info: API Started!
+2021-01-27T17:30:32.179Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:30:57.764Z [my-bank-api] info: API Started!
+2021-01-27T17:30:57.766Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T17:35:39.907Z [my-bank-api] info: API Started!
+2021-01-27T17:35:39.909Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:03:47.870Z [my-bank-api] info: API Started!
+2021-01-27T18:03:47.876Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:04:31.975Z [my-bank-api] info: API Started!
+2021-01-27T18:04:31.985Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:06:06.549Z [my-bank-api] info: API Started!
+2021-01-27T18:06:06.555Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:10:22.314Z [my-bank-api] info: API Started!
+2021-01-27T18:10:22.318Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:13:05.469Z [my-bank-api] info: API Started!
+2021-01-27T18:13:05.472Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:13:31.581Z [my-bank-api] info: API Started!
+2021-01-27T18:13:31.587Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:19:27.281Z [my-bank-api] info: API Started!
+2021-01-27T18:19:27.284Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:24:37.510Z [my-bank-api] info: API Started!
+2021-01-27T18:24:37.513Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:25:43.866Z [my-bank-api] info: API Started!
+2021-01-27T18:25:43.875Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:26:36.471Z [my-bank-api] info: API Started!
+2021-01-27T18:26:36.474Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:27:00.932Z [my-bank-api] info: API Started!
+2021-01-27T18:27:00.937Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:28:33.932Z [my-bank-api] info: API Started!
+2021-01-27T18:28:33.939Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:32:08.942Z [my-bank-api] info: API Started!
+2021-01-27T18:32:08.945Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:33:29.553Z [my-bank-api] info: API Started!
+2021-01-27T18:33:29.560Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:36:09.172Z [my-bank-api] info: API Started!
+2021-01-27T18:36:09.176Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:37:06.936Z [my-bank-api] info: API Started!
+2021-01-27T18:37:06.939Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:37:21.755Z [my-bank-api] info: API Started!
+2021-01-27T18:37:21.758Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:37:38.583Z [my-bank-api] info: API Started!
+2021-01-27T18:37:38.586Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:37:55.515Z [my-bank-api] info: API Started!
+2021-01-27T18:37:55.519Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:38:48.867Z [my-bank-api] info: API Started!
+2021-01-27T18:38:48.869Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:39:29.579Z [my-bank-api] info: API Started!
+2021-01-27T18:39:29.582Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:39:44.977Z [my-bank-api] info: API Started!
+2021-01-27T18:39:44.980Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T18:55:51.885Z [my-bank-api] info: API Started!
+2021-01-27T18:55:51.888Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:02:35.865Z [my-bank-api] info: API Started!
+2021-01-27T20:02:35.868Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:02:57.768Z [my-bank-api] info: API Started!
+2021-01-27T20:02:57.773Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:15:50.536Z [my-bank-api] info: API Started!
+2021-01-27T20:15:50.541Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:19:05.962Z [my-bank-api] info: API Started!
+2021-01-27T20:19:05.980Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:19:37.896Z [my-bank-api] info: API Started!
+2021-01-27T20:19:37.900Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:20:48.088Z [my-bank-api] info: API Started!
+2021-01-27T20:20:48.091Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:23:38.971Z [my-bank-api] info: API Started!
+2021-01-27T20:23:38.974Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:24:40.117Z [my-bank-api] info: API Started!
+2021-01-27T20:24:40.123Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:25:07.067Z [my-bank-api] info: API Started!
+2021-01-27T20:25:07.071Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:27:35.285Z [my-bank-api] info: API Started!
+2021-01-27T20:27:35.290Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:30:45.911Z [my-bank-api] info: API Started!
+2021-01-27T20:30:45.915Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:31:09.418Z [my-bank-api] info: API Started!
+2021-01-27T20:31:09.422Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:31:51.726Z [my-bank-api] info: API Started!
+2021-01-27T20:31:51.729Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:32:24.909Z [my-bank-api] info: API Started!
+2021-01-27T20:32:24.912Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:33:07.351Z [my-bank-api] info: API Started!
+2021-01-27T20:33:07.354Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:35:44.740Z [my-bank-api] info: API Started!
+2021-01-27T20:35:44.745Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:36:48.388Z [my-bank-api] info: API Started!
+2021-01-27T20:36:48.391Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:38:14.405Z [my-bank-api] info: API Started!
+2021-01-27T20:38:14.409Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:42:19.655Z [my-bank-api] info: API Started!
+2021-01-27T20:42:19.658Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:42:41.971Z [my-bank-api] info: API Started!
+2021-01-27T20:42:41.976Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T20:44:28.755Z [my-bank-api] info: API Started!
+2021-01-27T20:44:28.763Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:33:32.627Z [my-bank-api] info: API Started!
+2021-01-27T22:33:32.630Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:35:37.465Z [my-bank-api] info: API Started!
+2021-01-27T22:35:37.469Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:38:23.952Z [my-bank-api] info: API Started!
+2021-01-27T22:38:23.955Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:39:14.644Z [my-bank-api] info: API Started!
+2021-01-27T22:39:14.646Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:39:27.008Z [my-bank-api] info: API Started!
+2021-01-27T22:39:27.010Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:40:25.461Z [my-bank-api] info: API Started!
+2021-01-27T22:40:25.465Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-27T22:42:29.005Z [my-bank-api] info: API Started!
+2021-01-27T22:42:29.008Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T00:24:20.543Z [my-bank-api] info: API Started!
+2021-01-28T00:24:20.550Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T00:57:01.546Z [my-bank-api] info: API Started!
+2021-01-28T00:57:01.556Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T00:57:57.060Z [my-bank-api] info: API Started!
+2021-01-28T00:57:57.065Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T00:58:25.708Z [my-bank-api] info: API Started!
+2021-01-28T00:58:25.710Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T00:58:49.329Z [my-bank-api] info: API Started!
+2021-01-28T00:58:49.340Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:03:33.472Z [my-bank-api] info: API Started!
+2021-01-28T01:03:33.476Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:04:33.289Z [my-bank-api] info: API Started!
+2021-01-28T01:04:33.292Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:04:59.010Z [my-bank-api] info: API Started!
+2021-01-28T01:04:59.012Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:07:09.708Z [my-bank-api] info: API Started!
+2021-01-28T01:07:09.714Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:10:08.992Z [my-bank-api] info: API Started!
+2021-01-28T01:10:08.995Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:19:01.454Z [my-bank-api] info: API Started!
+2021-01-28T01:19:01.458Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:26:23.717Z [my-bank-api] info: API Started!
+2021-01-28T01:26:23.722Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:26:51.058Z [my-bank-api] info: API Started!
+2021-01-28T01:26:51.063Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:27:11.612Z [my-bank-api] info: API Started!
+2021-01-28T01:27:11.614Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:28:10.941Z [my-bank-api] info: API Started!
+2021-01-28T01:28:10.946Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:28:53.818Z [my-bank-api] info: API Started!
+2021-01-28T01:28:53.824Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:29:26.860Z [my-bank-api] info: API Started!
+2021-01-28T01:29:26.863Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:30:50.166Z [my-bank-api] info: API Started!
+2021-01-28T01:30:50.168Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:32:42.239Z [my-bank-api] info: API Started!
+2021-01-28T01:32:42.242Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:35:13.873Z [my-bank-api] info: API Started!
+2021-01-28T01:35:13.876Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:36:03.934Z [my-bank-api] info: API Started!
+2021-01-28T01:36:03.942Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:38:15.614Z [my-bank-api] info: API Started!
+2021-01-28T01:38:15.616Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:38:57.626Z [my-bank-api] info: API Started!
+2021-01-28T01:38:57.634Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:39:38.641Z [my-bank-api] info: API Started!
+2021-01-28T01:39:38.645Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:40:01.303Z [my-bank-api] info: API Started!
+2021-01-28T01:40:01.307Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T01:40:34.529Z [my-bank-api] info: API Started!
+2021-01-28T01:40:34.532Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:13:22.512Z [my-bank-api] info: API Started!
+2021-01-28T02:13:22.515Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:15:14.475Z [my-bank-api] info: API Started!
+2021-01-28T02:15:14.484Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:15:50.547Z [my-bank-api] info: API Started!
+2021-01-28T02:15:50.553Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:16:16.143Z [my-bank-api] info: API Started!
+2021-01-28T02:16:16.146Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:16:46.381Z [my-bank-api] info: API Started!
+2021-01-28T02:16:46.385Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:17:34.063Z [my-bank-api] info: API Started!
+2021-01-28T02:17:34.066Z [my-bank-api] info: Conectado ao MongoDB com sucesso
+2021-01-28T02:28:07.930Z [my-bank-api] info: API Started!
+2021-01-28T02:28:07.932Z [my-bank-api] info: Conectado ao MongoDB com sucesso

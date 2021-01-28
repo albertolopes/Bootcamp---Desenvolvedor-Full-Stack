@@ -22,10 +22,10 @@ const app = express();
 app.use(express.json());
 app.use(express.static("public"));
 app.use("/accounts", accountsRouter);
-app.listen(3001, async () => {
+app.listen(3000, async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://albertolopes:<senha>@cluster0.s3dpa.mongodb.net/bank?retryWrites=true&w=majority",
+      "mongodb+srv://albertolopes:242837@cluster0.s3dpa.mongodb.net/bank?retryWrites=true&w=majority",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,

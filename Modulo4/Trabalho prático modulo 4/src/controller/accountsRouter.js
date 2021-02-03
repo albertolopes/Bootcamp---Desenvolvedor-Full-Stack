@@ -41,7 +41,7 @@ app.put("/withdraw", async (req, res) => {
     }   
 });
 
-app.put("/balance", async (req, res) => {
+app.get("/balance", async (req, res) => {
     try {
         const response = await balance(req);
 

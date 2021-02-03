@@ -35,7 +35,7 @@ async function withdraw(req){
         agencia: accounts[0].agencia,
         conta: accounts[0].conta,
         name: accounts[0].name,
-        balance: accounts[0].balance - req.body.deposit,
+        balance: accounts[0].balance - req.body.deposito,
       };
   
       const back = await acountsCollection.findByIdAndUpdate({_id: accounts[0]._id}, sub, {

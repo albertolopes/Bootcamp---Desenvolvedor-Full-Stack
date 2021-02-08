@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Card(props) {
+export default function CardComponent(props) {
   const handleChangeDate = () => {
     props.onChangeDone(props.id);
   };

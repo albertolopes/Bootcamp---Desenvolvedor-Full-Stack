@@ -28,6 +28,18 @@ transactionRouter.get("/:id", async (req, res) => {
   }
 });
 
+transactionRouter.get("/year/:year", async (req, res) =>{
+  try {
+    res.send(await transactionService.findByYear(req));
+    logger.info(`GET / - ${JSON.stringify()}`);
+  } catch (error) {
+    res
+      .status(500)
+      .send({ message: error.message || "Algum erro ocorreu ao buscar." });
+    logger.error(`GET / - ${JSON.stringify(error.message)}`);
+  }
+})
+
 transactionRouter.post('/', async (req, res) => {
     try {
         res.send(await transactionService.create(req));

@@ -14,9 +14,17 @@ exports.find = async (req) => {
 };
 
 exports.findById = async (req) => {  
-  console.log(req.params.id)
   return await TransactionModel.findById({ _id: req.params.id });
 };
+
+exports.findByYear = async (req) => {
+  const response = await TransactionModel.find({year: req.params.year})
+  return {
+    year: req.params.year,
+    sum: makeSum(response),
+    subtract: makeSubtract(response)
+  };
+} 
 
 exports.create = async (req) => {
     return await TransactionModel.create(
@@ -32,6 +40,26 @@ exports.update = async (req) => {
 
 exports.delete = async (req) => {
   return await TransactionModel.findByIdAndDelete({ _id: req.params.id });
+}
+
+const makeSum = (finance) => {
+  let sum = null;
+  for(let i = 0; i < finance.length; i ++){
+    if(finance[i].type == "+"){
+      sum += finance[i].value;
+    }    
+  }
+  return sum;
+}
+
+const makeSubtract = (finance) => {
+  let sum = null;
+  for(let i = 0; i < finance.length; i ++){
+    if(finance[i].type == "-"){
+      sum += finance[i].value;
+    }    
+  }
+  return sum;
 }
 
 const createJsonFinancy = (req) => {
